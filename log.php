@@ -120,7 +120,7 @@ class Log
     {
         if(($level & $this->level) == $level )
         {
-            $msg = '['.date('Y-m-d H:i:s').']['.$this->getLevelStr($level).'] '.$msg."\n";
+            $msg = '['.date('Y-m-d H:i:s').']['.$this->getLevelStr($level).'] '.$msg.PHP_EOL;
             $this->handler->write($msg);
         }
     }
