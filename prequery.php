@@ -15,8 +15,7 @@
  */
 header('Content-Type:application/json; charset=utf-8');
 ini_set('date.timezone','Asia/Shanghai');
-//error_reporting(E_ALL);
-//ini_set("display_errors","On");
+
 require_once "api.php";
 require_once 'log.php';
 
