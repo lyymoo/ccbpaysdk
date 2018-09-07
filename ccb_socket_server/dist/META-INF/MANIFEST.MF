@@ -1,0 +1,5 @@
+Manifest-Version: 1.0
+Created-By: jdk1.8.0_181
+Main-Class: com.ccb.server.Server
+Class-path: lib/bcprov-jdk14-128.jar lib/COM.CCB.EnDecryptAlgorithm_v1.0_20120220.jar lib/dom4j-1.6.1.jar lib/netpay.jar
+

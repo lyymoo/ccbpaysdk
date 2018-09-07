@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+    <classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8">
+        <attributes>
+            <attribute name="module" value="true"/>
+        </attributes>
+    </classpathentry>
+    <classpathentry kind="src" path="src"/>
+    <classpathentry kind="output" path="bin"/>
+    <classpathentry kind="lib" path="lib/bcprov-jdk14-128.jar"/>
+    <classpathentry kind="lib" path="lib/COM.CCB.EnDecryptAlgorithm_v1.0_20120220.jar"/>
+    <classpathentry kind="lib" path="lib/netpay.jar"/>
+    <classpathentry kind="lib" path="lib/dom4j-1.6.1.jar"/>
+</classpath>
